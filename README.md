@@ -7,7 +7,7 @@
 <!-- My Profiles -->
 [![Linkedin](https://img.shields.io/badge/-prathamesh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-auti-a02280221/)
 [![Gmail](https://img.shields.io/badge/-prathamesh16.auti-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:prathamesh16.auti@gmail.com)
-[![Gmail](https://img.shields.io/badge/-prathamesh-d16c06?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/user2796zm/)
+[![Gmail](https://img.shields.io/badge/-prathamesh-d16c06?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/inix-a/)
 <img src="https://komarev.com/ghpvc/?username=prathamesh-a&label=Profile%20views&color=0e75b6&style=flat" alt="prathamesh-a" />
 <hr>
 
@@ -16,7 +16,7 @@
 
 <!-- Some Information -->
 - 🔥 Proficient in **Java**
-- 🌱 I’m currently learning **React** for my front-end and **Spring** for backend
+- 🌱 I’m currently learning **React** for my front-end and **Spring Boot** for backend
 - 👨‍💻 All of my projects are available at [https://github.com/prathamesh-a?tab=repositories](https://github.com/prathamesh-a?tab=repositories)
 - 📫 How to reach me **prathamesh16.auti@gmail.com**
 <hr>
@@ -24,13 +24,12 @@
 <!-- Tools that I use -->
 <h3>Tools I work upon : 🛠</h3>
 <p>
-  <img src="https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Android-a4c639?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring%20-%23563D7C.svg?&style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/SpringBoot%20-%23563D7C.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white">
 </p><hr>
 
 <!-- Tools and Languages I know -->
