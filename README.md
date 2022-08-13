@@ -1,7 +1,7 @@
 <!-- Hello! Thanks for visiting my profile-->
 
 <!-- Intro -->
-<hr><h1 align="center">👋 Hello World! I'm Prathamesh Auti</h1>
+<hr><h1 align="center">👋 Hi! I'm Prathamesh</h1>
 <h3 align="center">A Computer Engineering student and a Intermediate Software Developer.</h3><hr>
 
 <!-- My Profiles -->
