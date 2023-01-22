@@ -25,7 +25,7 @@
 
 <!-- Some Information -->
 - 🔥 Proficient in **Java**
-- 🌱 I’m currently learning **React** for my front-end and **Spring Boot** for backend
+- 🌱 I’m currently learning **React** for my front-end and **Node JS**
 - 👨‍💻 All of my projects are available at [https://github.com/prathamesh-a?tab=repositories](https://github.com/prathamesh-a?tab=repositories)
 - 📫 How to reach me **prathamesh16.auti@gmail.com**
 
